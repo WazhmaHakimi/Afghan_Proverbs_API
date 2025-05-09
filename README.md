@@ -46,7 +46,7 @@ The API will be running on http://localhost:3000/.
     ```bash
     postman GET http://localhost:3000/proverbs
     
-1. The response will be like below.
+- **The response will be like below.**
     ```bash
     [
         {
@@ -167,7 +167,7 @@ The API will be running on http://localhost:3000/.
     ```bash
     postman GET http://localhost:3000/proverbs/1
     
-2. The response will be like below.
+- **The response will be like below.**
     ```bash
     {
         "id": 1,
@@ -182,7 +182,7 @@ The API will be running on http://localhost:3000/.
     ```bash
     postman GET http://localhost:3000/proverbs/random
     
-3. The response will be like below.
+- **The response will be like below.**
     ```bash
     {
         "id": 6,
@@ -204,7 +204,7 @@ The API will be running on http://localhost:3000/.
     "category": "Judgment"
     }
     
-4. The response will be like below.
+- **The response will be like below.**
     ```bash
     {
     "id": 15,
@@ -227,7 +227,7 @@ The API will be running on http://localhost:3000/.
     "category": "Reality"
     }
     
-5. The response will be like below.
+- **The response will be like below.**
     ```bash
     {
     "id": 1,
@@ -250,7 +250,7 @@ The API will be running on http://localhost:3000/.
     "category": "Reality"
     }
     
-6. The response will be like below.
+- **The response will be like below.**
     ```bash
     {
     "result": "The proverb has been deleted"
